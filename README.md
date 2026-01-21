@@ -1,5 +1,5 @@
 About Me:
-Hey, I’m **Ahaan** — a cybersecurity student currently in my 4th semester, diving deep into ethical hacking and red team operations. I enjoy understanding how systems break, so I can help make them stronger.<br><br>I’m constantly learning, building, and testing my skills through CTFs, labs, and real-world scenarios. My focus is on practical security, not just theory.<br><br>Interests<br>- Ethical Hacking / Penetration Testing<br>- Capture The Flag (CTF) challenges<br>- AI Research<br>- Bug Hunting & Vulnerability Research<br><br>Currently<br>- Prepping for the **OSCP** exam<br>- Exploring tools, techniques, and writeups<br>- Looking for a **cybersecurity internship**
+Hey, I’m **Ahaan** — a cybersecurity student currently in my 6th semester, diving deep into ethical hacking and red team operations. I enjoy understanding how systems break, so I can help make them stronger.<br><br>I’m constantly learning, building, and testing my skills through CTFs, labs, and real-world scenarios. My focus is on practical security, not just theory.<br><br>Interests<br>- Ethical Hacking / Penetration Testing<br>- Capture The Flag (CTF) challenges<br>- AI Research<br>- Bug Hunting & Vulnerability Research<br><br>Currently<br>- Prepping for the **OSCP** exam<br>- Exploring tools, techniques, and writeups<br>- Looking for a **cybersecurity internship**
 
 
 Socials:
