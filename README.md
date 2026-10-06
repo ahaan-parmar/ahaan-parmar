@@ -12,7 +12,7 @@
 
 <hr />
 
-## 👨‍💻 About Me
+## About Me
 
 I break things so teams can ship them safely. **Web**, **API**, **cloud** and **Active Directory** testing is my bread and butter: chaining injection and broken access control into real-impact findings, then writing remediation reports people actually act on.
 
@@ -22,7 +22,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
 
 <hr />
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,bash,powershell,c" />
@@ -35,7 +35,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
 
 <hr />
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <picture>
@@ -57,7 +57,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
 
 <hr />
 
-## 🔐 Projects
+## Projects
 
 <table>
   <thead>
@@ -69,7 +69,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
   </thead>
   <tbody>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=aws" height="16" alt="" />&nbsp; CT-SENTRY</td>
+    <td>CT-SENTRY</td>
     <td>CloudTrail detection with LLM triage and auto-remediation; false positives cut from 34% to 6%</td>
     <td align="center">
       <a href="https://github.com/ahaan-parmar/CT-SENTRY-cloudtrail-triage-"><code>repo</code></a>
@@ -77,7 +77,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
   </tr>
 
   <tr>
-    <td><img src="https://cdn.simpleicons.org/graphql/E10098" height="16" alt="" />&nbsp; gqlpwn</td>
+    <td>gqlpwn</td>
     <td>Low-noise GraphQL and AppSync scanner with exploit oracles for 7 vuln classes</td>
     <td align="center">
       <a href="https://github.com/ahaan-parmar/gqlpwn"><code>repo</code></a>
@@ -85,7 +85,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
   </tr>
 
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=windows" height="16" alt="" />&nbsp; AD Attack Lab</td>
+    <td>AD Attack Lab</td>
     <td>Responder, ntlmrelayx and mitm6 chained into Domain Admin, mapped in BloodHound</td>
     <td align="center">
       <code>private</code>
@@ -96,7 +96,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
 
 <hr />
 
-## 🏆 Achievements
+## Achievements
 
 <table>
   <thead>
@@ -109,7 +109,7 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
   <tr><td>CTFtime 2026</td><td>#279 worldwide, #23 in India (Team SudoWin)</td></tr>
   <tr><td>CyberSiege CTF</td><td>1st place, 2025 and 2026</td></tr>
   <tr><td>Tech Solistics, MIT Bengaluru</td><td>1st place</td></tr>
-  <tr><td><img src="https://cdn.simpleicons.org/kaspersky/006D5C" height="16" alt="" />&nbsp; Kaspersky Hackathon</td><td>4th of 600+</td></tr>
+  <tr><td>Kaspersky Hackathon</td><td>4th of 600+</td></tr>
   <tr><td>Manipal M#</td><td>Top 10 of 850+</td></tr>
   <tr><td>Publication</td><td><i>AI-Driven Data Analytics for Real-Time Decision-Making</i>, IJPREMS Vol. 05 (2025)</td></tr>
 </tbody>
