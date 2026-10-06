@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1600&pause=100000&color=00FF41&center=true&vCenter=true&repeat=false&width=520&height=50&lines=ahaan+parmar" alt="Ahaan Parmar" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1400&color=8B949E&center=true&vCenter=true&width=560&height=30&lines=i+break+things+so+they+ship+stronger;pentester+%2F+ctf+player+%2F+detection+engineer;hunting+bugs+in+graphql+and+aws;oscp%2B+in+progress.+try+harder." alt="taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1400&color=8B949E&center=true&vCenter=true&width=560&height=30&lines=i+break+things+so+they+ship+stronger;pentester+%2F+ctf+player+%2F+detection+engineer;hunting+bugs+in+graphql+and+aws;bug+bounty+hunter" alt="taglines" />
 </p>
 
 <p align="center">
@@ -21,23 +21,23 @@
 
 ## `$ ls ./projects`
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[CT-SENTRY](https://github.com/ahaan-parmar/cloudtrail-triage)** | CloudTrail detection, LLM triage and auto-remediation. Detection and response stay deterministic; the LLM only explains and ranks. FPR cut from 34% to 6% on ~1.9M real events. | `Python` `boto3` `FastAPI` |
-| **[gqlpwn](https://github.com/ahaan-parmar/gqlpwn)** | Low-false-positive GraphQL and AppSync scanner with exploit oracles for 7 vuln classes. Confirmed command injection at ~50x signal. | `Python` `GraphQL` `AppSync` |
-| **AD Attack Lab** | Isolated Windows domain. Responder, ntlmrelayx and mitm6 chained into Domain Admin, paths mapped in BloodHound. | `Impacket` `BloodHound` |
+| Project                                                                 | What it does                                                                                                                                                                    | Stack                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[CT-SENTRY](https://github.com/ahaan-parmar/cloudtrail-triage)** | CloudTrail detection, LLM triage and auto-remediation. Detection and response stay deterministic; the LLM only explains and ranks. FPR cut from 34% to 6% on ~1.9M real events. | `Python` `boto3` `FastAPI`   |
+| **[gqlpwn](https://github.com/ahaan-parmar/gqlpwn)**               | Low-false-positive GraphQL and AppSync scanner with exploit oracles for 7 vuln classes. Confirmed command injection at ~50x signal.                                             | `Python` `GraphQL` `AppSync` |
+| **AD Attack Lab**                                                 | Isolated Windows domain. Responder, ntlmrelayx and mitm6 chained into Domain Admin, paths mapped in BloodHound.                                                                 | `Impacket` `BloodHound`        |
 
 ## `$ cat ./loot`
 
-| | |
-|---|---|
-| **CTFtime 2026** | #279 worldwide, #23 in India with Team SudoWin |
-| **CyberSiege CTF** | 1st place, 2025 and 2026 |
-| **Tech Solistics** | 1st place, MIT Bengaluru |
-| **Kaspersky Hackathon** | 4th of 600+ |
-| **Manipal M#** | Top 10 of 850+ |
-| **Publication** | *AI-Driven Data Analytics for Real-Time Decision-Making*, IJPREMS Vol. 05 (2025) |
-| **Certs** | eJPTv2, THM Jr Penetration Tester, OSCP+ (in progress) |
+|                               |                                                                                    |
+| ----------------------------- | ---------------------------------------------------------------------------------- |
+| **CTFtime 2026**        | #279 worldwide, #23 in India with Team SudoWin                                     |
+| **CyberSiege CTF**      | 1st place, 2025 and 2026                                                           |
+| **Tech Solistics**      | 1st place, MIT Bengaluru                                                           |
+| **Kaspersky Hackathon** | 4th of 600+                                                                        |
+| **Manipal M#**          | Top 10 of 850+                                                                     |
+| **Publication**         | *AI-Driven Data Analytics for Real-Time Decision-Making*, IJPREMS Vol. 05 (2025) |
+| **Certs**               | eJPTv2, THM Jr Penetration Tester, OSCP+ (in progress)                             |
 
 ## `$ ./telemetry`
 
