@@ -43,8 +43,8 @@ Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #2
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahaan-parmar&theme=github" alt="Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaan-parmar&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaan-parmar&theme=github" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaan-parmar&hide=typescript&layout=compact&theme=github_dark&hide_border=true">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaan-parmar&hide=typescript&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   </picture>
 </p>
 
