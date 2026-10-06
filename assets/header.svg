@@ -2,8 +2,8 @@
   <title>Ahaan Parmar</title>
   <style>
     .b0{animation:d0 14s ease-in-out infinite alternate}@keyframes d0{to{transform:translate(60px,30px)}}.b1{animation:d1 18s ease-in-out infinite alternate}@keyframes d1{to{transform:translate(-50px,-40px)}}.b2{animation:d2 16s ease-in-out infinite alternate}@keyframes d2{to{transform:translate(-70px,40px)}}.b3{animation:d3 20s ease-in-out infinite alternate}@keyframes d3{to{transform:translate(40px,-30px)}}.b4{animation:d4 22s ease-in-out infinite alternate}@keyframes d4{to{transform:translate(50px,-20px)}}
-    .k{font:600 12px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;letter-spacing:4px;fill:#cba6f7}
-    .n{font:italic 400 64px 'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif;fill:#cdd6f4}
+    .k{font:600 12px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;letter-spacing:4px;fill:#a6adc8}
+    .n{font:700 54px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;letter-spacing:-1px;fill:#cdd6f4}
     .r{font:400 17px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;fill:#a6adc8;opacity:0;animation:rot 10.5s infinite}
     @keyframes rot{0%{opacity:0}4.0%{opacity:1}28.3%{opacity:1}33.3%,100%{opacity:0}}
     .in{opacity:0;animation:in 1.2s .2s ease-out forwards}
@@ -15,7 +15,7 @@
   </defs>
   <g clip-path="url(#card)">
     <rect width="880" height="280" fill="#1e1e2e"/>
-    <g filter="url(#soft)"><circle class="b0" cx="140" cy="70" r="150" fill="#f5c2e7" opacity=".7"/><circle class="b1" cx="420" cy="250" r="170" fill="#cba6f7" opacity=".7"/><circle class="b2" cx="760" cy="60" r="160" fill="#fab387" opacity=".7"/><circle class="b3" cx="650" cy="260" r="130" fill="#94e2d5" opacity=".7"/><circle class="b4" cx="60" cy="260" r="110" fill="#89b4fa" opacity=".7"/></g>
+    <g filter="url(#soft)"><circle class="b0" cx="140" cy="70" r="150" fill="#cba6f7" opacity=".35"/><circle class="b1" cx="420" cy="250" r="170" fill="#b4befe" opacity=".35"/><circle class="b2" cx="760" cy="60" r="160" fill="#f5c2e7" opacity=".35"/><circle class="b3" cx="650" cy="260" r="130" fill="#89b4fa" opacity=".35"/><circle class="b4" cx="60" cy="260" r="110" fill="#b4befe" opacity=".35"/></g>
     <rect width="880" height="280" fill="#1e1e2e" opacity=".22"/>
   </g>
   <g class="in">
