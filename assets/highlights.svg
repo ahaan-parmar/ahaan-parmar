@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="Highlights">
+  <title>Highlights</title>
+  <style>
+    .big{font:italic 400 40px 'Iowan Old Style','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif}
+    .lab{font:600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;fill:#cdd6f4}
+    .sub{font:400 13px -apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;fill:#6c7086}
+    .tile{opacity:0;animation:in .7s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  </style>
+  <g class="tile" style="animation-delay:0.00s">
+    <rect x="0.5" y="0.5" width="279" height="139" rx="18" fill="#1e1e2e" stroke="#f5c2e7" stroke-opacity=".3"/>
+    <text x="24" y="62" class="big" fill="#f5c2e7">#23</text>
+    <text x="24" y="94" class="lab">in India on CTFtime 2026</text>
+    <text x="24" y="116" class="sub">with Team SudoWin, #279 worldwide</text>
+  </g>
+  <g class="tile" style="animation-delay:0.12s">
+    <rect x="300.5" y="0.5" width="279" height="139" rx="18" fill="#1e1e2e" stroke="#cba6f7" stroke-opacity=".3"/>
+    <text x="324" y="62" class="big" fill="#cba6f7">1st</text>
+    <text x="324" y="94" class="lab">CyberSiege CTF</text>
+    <text x="324" y="116" class="sub">two years running, 2025 and 2026</text>
+  </g>
+  <g class="tile" style="animation-delay:0.24s">
+    <rect x="600.5" y="0.5" width="279" height="139" rx="18" fill="#1e1e2e" stroke="#fab387" stroke-opacity=".3"/>
+    <text x="624" y="62" class="big" fill="#fab387">1st</text>
+    <text x="624" y="94" class="lab">Tech Solistics</text>
+    <text x="624" y="116" class="sub">MIT Bengaluru</text>
+  </g>
+  <g class="tile" style="animation-delay:0.36s">
+    <rect x="0.5" y="160.5" width="279" height="139" rx="18" fill="#1e1e2e" stroke="#94e2d5" stroke-opacity=".3"/>
+    <text x="24" y="222" class="big" fill="#94e2d5">4th</text>
+    <text x="24" y="254" class="lab">Kaspersky Hackathon</text>
+    <text x="24" y="276" class="sub">out of 600+ teams</text>
+  </g>
+  <g class="tile" style="animation-delay:0.48s">
+    <rect x="300.5" y="160.5" width="279" height="139" rx="18" fill="#1e1e2e" stroke="#89b4fa" stroke-opacity=".3"/>
+    <text x="324" y="222" class="big" fill="#89b4fa">Top 10</text>
+    <text x="324" y="254" class="lab">Manipal M#</text>
+    <text x="324" y="276" class="sub">out of 850+</text>
+  </g>
+  <g class="tile" style="animation-delay:0.60s">
+    <rect x="600.5" y="160.5" width="279" height="139" rx="18" fill="#1e1e2e" stroke="#a6e3a1" stroke-opacity=".3"/>
+    <text x="624" y="222" class="big" fill="#a6e3a1">eJPTv2</text>
+    <text x="624" y="254" class="lab">certified</text>
+    <text x="624" y="276" class="sub">plus THM Jr Penetration Tester</text>
+  </g>
+</svg>
