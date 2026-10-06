@@ -48,9 +48,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahaan-parmar&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=7d8590&dates=7d8590&stroke=30363d" alt="streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahaan-parmar&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF41&hide_border=true" width="100%" alt="activity graph" />
-</p>
 
 <p align="center">
   <picture>
