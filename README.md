@@ -35,7 +35,7 @@ Cybersecurity student at MIT Bengaluru. I like finding out how things break, the
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahaan-parmar&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&icon_color=a6adc8&text_color=cdd6f4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaan-parmar&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaan-parmar&hide=typescript&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top languages" />
 </p>
 
 <picture>
