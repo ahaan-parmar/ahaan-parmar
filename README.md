@@ -12,7 +12,7 @@ Cybersecurity student at MIT Bengaluru. I like finding out how things break, the
 
 ### Projects
 
-- **[CT-SENTRY](https://github.com/ahaan-parmar/cloudtrail-triage)**: CloudTrail detection with LLM triage and auto-remediation. Detection stays deterministic; the model only explains and ranks. Cut false positives from 34% to 6% on 1.9M real events.
+- **[CT-SENTRY](https://github.com/ahaan-parmar/CT-SENTRY-cloudtrail-triage-)**: CloudTrail detection with LLM triage and auto-remediation. Detection stays deterministic; the model only explains and ranks. Cut false positives from 34% to 6% on 1.9M real events.
 - **[gqlpwn](https://github.com/ahaan-parmar/gqlpwn)**: low-noise GraphQL and AppSync scanner with exploit oracles for seven vuln classes.
 - **AD Attack Lab**: isolated Windows domain. Responder, ntlmrelayx and mitm6 chained into Domain Admin, paths mapped in BloodHound.
 
@@ -35,7 +35,7 @@ Cybersecurity student at MIT Bengaluru. I like finding out how things break, the
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahaan-parmar&show_icons=true&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&icon_color=a6adc8&text_color=cdd6f4" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaan-parmar&hide=typescript&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cdd6f4&text_color=cdd6f4" alt="Top languages" />
+  <img height="165" src="./assets/langs.svg" alt="Most used languages" />
 </p>
 
 <picture>

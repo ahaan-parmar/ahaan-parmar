@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" role="img" aria-label="Most used languages: Python 89%, JavaScript 10%, PLpgSQL 0%, Jinja 0%">
+  <title>Most used languages</title>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,'Helvetica Neue',Arial,sans-serif;text-anchor:middle}
+    .pct{font-size:26px;font-weight:700}
+    .nm{font-size:13px;font-weight:500;fill:#a6adc8}
+    .c{opacity:0;animation:cyc 9.6s infinite}
+    @keyframes cyc{0%{opacity:0}2.50%{opacity:1}22.50%{opacity:1}25.00%,100%{opacity:0}}
+    @keyframes pop{0%,25.00%,100%{stroke-width:20px}2.50%,22.50%{stroke-width:28px}}
+    .s0{animation:pop 9.6s 1.40s infinite}.s1{animation:pop 9.6s 3.80s infinite}.s2{animation:pop 9.6s 6.20s infinite}.s3{animation:pop 9.6s 8.60s infinite}
+  </style>
+  <rect width="300" height="195" rx="4.5" fill="#1e1e2e"/>
+  <circle cx="150.0" cy="98" r="66" fill="none" stroke="#313244" stroke-width="20"/>
+  <circle class="s s0" cx="150.0" cy="98" r="66" fill="none" stroke="#3572A5" stroke-width="20" stroke-dasharray="0 414.69" stroke-dashoffset="-0.00" transform="rotate(-90 150.0 98)"><animate attributeName="stroke-dasharray" from="0 414.69" to="365.97 414.69" begin="0.20s" dur="0.5s" fill="freeze" calcMode="spline" keySplines=".25 .1 .25 1"/></circle><circle class="s s1" cx="150.0" cy="98" r="66" fill="none" stroke="#f1e05a" stroke-width="20" stroke-dasharray="0 414.69" stroke-dashoffset="-368.97" transform="rotate(-90 150.0 98)"><animate attributeName="stroke-dasharray" from="0 414.69" to="38.70 414.69" begin="0.50s" dur="0.5s" fill="freeze" calcMode="spline" keySplines=".25 .1 .25 1"/></circle><circle class="s s2" cx="150.0" cy="98" r="66" fill="none" stroke="#a6adc8" stroke-width="20" stroke-dasharray="0 414.69" stroke-dashoffset="-410.67" transform="rotate(-90 150.0 98)"><animate attributeName="stroke-dasharray" from="0 414.69" to="0.50 414.69" begin="0.80s" dur="0.5s" fill="freeze" calcMode="spline" keySplines=".25 .1 .25 1"/></circle><circle class="s s3" cx="150.0" cy="98" r="66" fill="none" stroke="#a6adc8" stroke-width="20" stroke-dasharray="0 414.69" stroke-dashoffset="-412.75" transform="rotate(-90 150.0 98)"><animate attributeName="stroke-dasharray" from="0 414.69" to="0.50 414.69" begin="1.10s" dur="0.5s" fill="freeze" calcMode="spline" keySplines=".25 .1 .25 1"/></circle>
+  <g class="c" style="animation-delay:1.40s"><text x="150.0" y="102" class="pct" fill="#3572A5">89%</text><text x="150.0" y="122" class="nm">Python</text></g><g class="c" style="animation-delay:3.80s"><text x="150.0" y="102" class="pct" fill="#f1e05a">10%</text><text x="150.0" y="122" class="nm">JavaScript</text></g><g class="c" style="animation-delay:6.20s"><text x="150.0" y="102" class="pct" fill="#a6adc8">0.5%</text><text x="150.0" y="122" class="nm">PLpgSQL</text></g><g class="c" style="animation-delay:8.60s"><text x="150.0" y="102" class="pct" fill="#a6adc8">0.5%</text><text x="150.0" y="122" class="nm">Jinja</text></g>
+</svg>
