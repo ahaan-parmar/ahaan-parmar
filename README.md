@@ -14,11 +14,9 @@
 
 ## About Me
 
-I break things so teams can ship them safely. **Web**, **API**, **cloud** and **Active Directory** testing is my bread and butter: chaining injection and broken access control into real-impact findings, then writing remediation reports people actually act on.
+Cybersecurity student at **MIT Bengaluru**. I do web, API, cloud and Active Directory pentesting, hunt bugs, and play CTFs with **Team SudoWin**.
 
-I've worked as a **Contract Penetration Tester** and **Application Security Intern** at **Mobil80 Solutions**, running black and grey-box assessments on client apps, including GraphQL abuse, AWS IAM privilege escalation and insecure S3 policies. I'm studying **B.Tech CSE (Cybersecurity)** at **MIT Bengaluru**.
-
-Outside work I play CTFs with **Team SudoWin** (CTFtime 2026: #279 worldwide, #23 in India), hunt bugs, and hold **eJPTv2** and **THM Jr Penetration Tester**.
+Certs: **eJPTv2**, **THM Jr Penetration Tester**.
 
 <hr />
 
